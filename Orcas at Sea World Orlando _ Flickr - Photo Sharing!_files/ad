@@ -1,0 +1,27 @@
+YUI.Env.JSONP.yui_3_16_0_1_1434777708478_12386({
+   "ads" : [
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=0kgZGgkGIS_PV6buPTBjBZeosJxo7RmhIvZjhNrpY_Q453Q0bf6iB.ivWYbur8npUwsVZ3tI8rgRzemUUC7fJyj.wiCy.zlSJou3FtIoxnB9aEej8Dd0wFpgxJ9u8uinYrowdo4Tb9ZklzUdg1g5VQWvgJRILoQr.jZd2ZJMqrkegfeZrvAyPDJ2saPlFCxm0DHkwLfwAQdUtXbWa14PDBpJcmYSLZ6a8bGCCTt55Ulgts1NfDh7B56SaZwovmcdLknT2tF3HVS9rjaX8PWEQlWEtTo.gLbiBzyP4Pc9KdzWyxtHf6RFHUTdQ5EeRea2ZT1ww8xgmoOSyre9cy2AJuoSpCVIuOKO4_J3P6Gh_4o0pRjBKCReHDxAuzthHoCoGA--&ap=$(AD_POSN)",
+         "bidUSD" : 0.250,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.01259100637462615,
+         "creativeId" : 29362261538,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png",
+         "index" : 1,
+         "landingPageUrl" : "http://www.facebook.com/campaign/landing.php?campaign_id=330829933769396&partner_id=yahoo_stream&placement=Japan&creative=Mail&extra_1=Group2&extra_2=v2&keyword=29362261538",
+         "sponsoredBy" : "Facebook",
+         "tag" : "{\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=YO_VUWQGIS8UsgGur5ZyLXgoKm9bVNvrCuomehikJ_uHbTOsE5pZoptEteO473RLv9yDM9g3cB_OcY4vuiyImwAtRScacn1QKD1E_BHlNs5q5_jFABdZ0LkNbqmMXS3Ukfyw.Tohlj86e2me_LTPFZeRfCTh2CHCGlstrn1ooAi_keio_6L.XPpLtvIhmEbKNEokPjF1_EUnEOJV1TCk9yq5sfDaRRHmmww9l.Vgi0P6dP4mmUhdkYo_HuACK9UIj0pV.dhGoq0pkAN2qecYZR.T9nHhS5nJoRvaQuyxVX87ztdNil0oxkirMGWshG011m8f6V3PI1odlIK1rnd3hIYSkDgvqAmMmlFNew3wAG9ElLj3me03so.Fg984kxraV5HAsl2zUXgqzDU._lx0T84KzXeZdo50JNyI6IjQQqndfLGARBzITzxyBOwL78YwKJdOu6Utf_88.vtA_l6hzfQqJo0dwWMKjP7Hmn2JcXNCfgNisw_CdM.ODa8SM42KHEN9OlxBXJqVLK0XRG3E.Em0XFCU2FCQwn4LVlcS2bECne442FlZl3yNmxDLWxL5EU7PD9JBC7wSMn42ub8VZEnjWoOOwjqfQMs84jRvd_lQ7fVGicV8ymX9CVa8Jg2mZo8X68qqeQ--%26lp=\",\"headline\":\"Facebook® Account Sign Up. Join for Free Today!\",\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png\",\"hqImage\":\"https://s.yimg.com/av/moneyball/ads/1412267506080-6507.jpg\",\"origImg\":\"\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/7a0564f3dd79a2a29b2b9e4fb3b56f89.png\",\"secHqImage\":\"https://s.yimg.com/av/moneyball/ads/1412267506080-6507.jpg\",\"imageHeight\":82,\"imageWidth\":82,\"hqImageHeight\":627,\"hqImageWidth\":1200,\"origImgHeight\":-1,\"origImgWidth\":-1,\"summary\":\"Connect with friends and the world around you on Facebook. Sign up, it’s free and always will be.\",\"uuid\":\"29362261538\",\"source\":\"Facebook\",\"landingUrl\":\"http://www.facebook.com/campaign/landing.php?campaign_id=330829933769396&partner_id=yahoo_stream&placement=Japan&creative=Mail&extra_1=Group2&extra_2=v2&keyword=29362261538\",\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15goq8qdo(gid$837cdb42-170c-11e5-8d27-1fdf1bdd85ea-7fbbf08cc700,st$1434777821801000,li$0,cr$29362261538,dmn$m25151,srv$3,exp$1434785021801000,ct$27,v$1.0,adv$958566,pbid$1,seid$4964388))&r=1434777821801&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"958566\",\"objective\":\"VISIT_WEB\"}"
+      }
+   ],
+   "adsRequested" : 8,
+   "adserverLatency" : 1.500000000000000e-05,
+   "section" : {
+      "id" : 4964388
+   },
+   "serverIp" : "fe1.cbs.cb.gq1.yahoo.com",
+   "status" : "0",
+   "totalAds" : 1,
+   "totalLatency" : 0.0300190,
+   "userCountry" : "JP",
+   "version" : "2"
+})
